@@ -15,6 +15,8 @@ public class CrudPage extends Application {
         Application.launch(args);
     }
 
+    // Added comment on the file
+
     @Override
     public void start(Stage primaryStage) throws Exception {
 
